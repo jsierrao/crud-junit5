@@ -21,6 +21,11 @@ import com.creando.service.AfiliadoService;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
+/**
+ * 
+ * @author juliosierra
+ *
+ */
 
 @RequiredArgsConstructor
 @Service
